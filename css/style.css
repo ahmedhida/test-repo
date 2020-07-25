@@ -1,0 +1,38 @@
+body{
+    background-color: #000;
+}
+.up-nav{
+    background-color: #000;
+    height: 85px;
+    color: #fff;
+    
+}
+.text-1{
+    background: blue;
+    display: block;
+    float: left;
+  font-size: 15px;
+    background-color: black;
+    
+}
+.icones {
+    
+    float: left;
+   font-size: 30px;
+ 
+}
+
+.navbar{ 
+   position: absolute;
+    top: 71px;
+    z-index: 9;
+    width: 66%;
+    
+}
+.navbar-nav li{
+    padding-left: 120px;
+}
+.bd-example{
+    
+}
+.jumbotron{background-color: aqua}
